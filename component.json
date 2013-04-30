@@ -12,7 +12,7 @@
   "main": "underscore.js",
   "version": "1.4.4",
   "license": "MIT",
-  "repo": "documentcloud/underscore",
+  "repo": "hugojosefson/underscore",
   "scripts": [
     "underscore.js"
   ],
